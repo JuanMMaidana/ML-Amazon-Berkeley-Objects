@@ -2,6 +2,8 @@
 
 This project explores image classification using the **Amazon Berkeley Objects (ABO) Dataset**, a large-scale dataset containing rich visual and contextual information. The aim is to build a model capable of identifying and categorizing objects in images, leveraging machine learning and deep learning techniques.
 
+For detailed explanations and results check my portfolio: https://juanmmaidana.github.io/posts/amazon/
+
 ---
 
 ## About the Dataset
